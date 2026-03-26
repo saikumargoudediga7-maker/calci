@@ -3,7 +3,7 @@
     margin: 0;
     display: flex;
     justify-content: center;
-    background-image: linear-gradient(rgba(255,255,255,0.3)),url('https://t3.ftcdn.net/jpg/05/07/66/60/360_F_507666066_J8zsoPcCnW0uGcEYzoT0RElpHACKxd6e.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.2)),url('https://t3.ftcdn.net/jpg/05/07/66/60/360_F_507666066_J8zsoPcCnW0uGcEYzoT0RElpHACKxd6e.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
